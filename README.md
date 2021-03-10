@@ -1,5 +1,6 @@
+# Average marks of a Student
 
-#### In this program we have to take input & store marks of 3 subjects to display the average and the Remark student got.
+#### In this program we have to take input & store marks of 3 subjects to display the average and the Remark that the student got.
 
 #### * Average Marks = Total Marks / 3
 
